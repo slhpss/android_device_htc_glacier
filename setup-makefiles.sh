@@ -195,7 +195,7 @@ PRODUCT_COPY_FILES += \\
     vendor/htc/__DEVICE__/proprietary/lsc_camera:/system/bin/lsc_camera \\
     vendor/htc/__DEVICE__/proprietary/rmt_storage:/system/bin/rmt_storage \\
     vendor/htc/__DEVICE__/proprietary/mm_property.conf:/system/etc/mm_property.conf \\
-    vendor/htc/__DEVICE__/proprietary/pvasflocal.cfg:/system/etc/pvasflocal.cfg \\
+#    vendor/htc/__DEVICE__/proprietary/pvasflocal.cfg:/system/etc/pvasflocal.cfg \\
     vendor/htc/__DEVICE__/proprietary/vidc_720p_command_control.fw:/system/etc/firmware/vidc_720p_command_control.fw \\
     vendor/htc/__DEVICE__/proprietary/vidc_720p_h263_dec_mc.fw:/system/etc/firmware/vidc_720p_h263_dec_mc.fw \\
     vendor/htc/__DEVICE__/proprietary/vidc_720p_h264_dec_mc.fw:/system/etc/firmware/vidc_720p_h264_dec_mc.fw \\
